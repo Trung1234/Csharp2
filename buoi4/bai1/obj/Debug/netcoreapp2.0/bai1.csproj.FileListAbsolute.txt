@@ -1,0 +1,10 @@
+/home/vagroup/dotnetproject/buoi4/bai1/bin/Debug/netcoreapp2.0/bai1.deps.json
+/home/vagroup/dotnetproject/buoi4/bai1/bin/Debug/netcoreapp2.0/bai1.runtimeconfig.json
+/home/vagroup/dotnetproject/buoi4/bai1/bin/Debug/netcoreapp2.0/bai1.runtimeconfig.dev.json
+/home/vagroup/dotnetproject/buoi4/bai1/bin/Debug/netcoreapp2.0/bai1.dll
+/home/vagroup/dotnetproject/buoi4/bai1/bin/Debug/netcoreapp2.0/bai1.pdb
+/home/vagroup/dotnetproject/buoi4/bai1/obj/Debug/netcoreapp2.0/bai1.csproj.CoreCompileInputs.cache
+/home/vagroup/dotnetproject/buoi4/bai1/obj/Debug/netcoreapp2.0/bai1.AssemblyInfoInputs.cache
+/home/vagroup/dotnetproject/buoi4/bai1/obj/Debug/netcoreapp2.0/bai1.AssemblyInfo.cs
+/home/vagroup/dotnetproject/buoi4/bai1/obj/Debug/netcoreapp2.0/bai1.dll
+/home/vagroup/dotnetproject/buoi4/bai1/obj/Debug/netcoreapp2.0/bai1.pdb
