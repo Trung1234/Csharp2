@@ -1,0 +1,10 @@
+/home/vagroup/CsharpProject/buoi7/Bai1/bin/Debug/netcoreapp2.0/Bai1.deps.json
+/home/vagroup/CsharpProject/buoi7/Bai1/bin/Debug/netcoreapp2.0/Bai1.runtimeconfig.json
+/home/vagroup/CsharpProject/buoi7/Bai1/bin/Debug/netcoreapp2.0/Bai1.runtimeconfig.dev.json
+/home/vagroup/CsharpProject/buoi7/Bai1/bin/Debug/netcoreapp2.0/Bai1.dll
+/home/vagroup/CsharpProject/buoi7/Bai1/bin/Debug/netcoreapp2.0/Bai1.pdb
+/home/vagroup/CsharpProject/buoi7/Bai1/obj/Debug/netcoreapp2.0/Bai1.csproj.CoreCompileInputs.cache
+/home/vagroup/CsharpProject/buoi7/Bai1/obj/Debug/netcoreapp2.0/Bai1.AssemblyInfoInputs.cache
+/home/vagroup/CsharpProject/buoi7/Bai1/obj/Debug/netcoreapp2.0/Bai1.AssemblyInfo.cs
+/home/vagroup/CsharpProject/buoi7/Bai1/obj/Debug/netcoreapp2.0/Bai1.dll
+/home/vagroup/CsharpProject/buoi7/Bai1/obj/Debug/netcoreapp2.0/Bai1.pdb
