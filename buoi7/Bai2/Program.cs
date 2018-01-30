@@ -18,13 +18,12 @@ namespace Bai2
     }
      class Person
     {
-        // Trường name - thông tin tên người
+   
         protected string name;
- 
-        // Trường bornYear - thông tin năm sinh
+
         protected int bornYear;
  
-        // Nơi sinh
+     
  
  
         public Person(string name)
