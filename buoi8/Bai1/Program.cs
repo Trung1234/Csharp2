@@ -18,7 +18,7 @@ namespace Bai1
             double d = Convert.ToDouble(Console.ReadLine());
             double e = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine($"Sum of 2 int number a and b {Caculator.Add(c ,d, e)}");
+            Console.WriteLine($"Sum of 3 Double number a and b {Caculator.Add(c ,d, e)}");
         }
     }
     class Caculator{
