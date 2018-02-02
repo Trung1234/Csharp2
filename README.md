@@ -37,7 +37,6 @@ Tìm ước số chung lớn nhất (GCD)
 Buổi 4:
 
 Chủ đề: file i/o
-
 Bài tập:
 
 Tạo 1 thư mục mới
@@ -109,14 +108,18 @@ Product Inventory: tạo ưng dụng quản lý sản phẩm, lớp Product gồ
 Bank Account Manager: Account base class với derived classes: SavingAccount, CheckingAccount, InvestmentAccount. Các bạn tự thiết kế thuộc tính, phương thức hợp lý theo ý mình.
 
 
+
+
 Buổi 9:
 
 Chủ đề: unit testing
+
 
 Bài tập:
 
 Quadratic function: giải phương trình bậc hai và viết unit test hàm này. Kiểm thử các trường hợp inputs khác nhau.
 Viết unit test cho ứng dụng Bank Account Manager và Product Inventory. Ví dụ trong Product Inventory, có thể viết các tests kiểm tra khởi tạo đối tượng Product có đúng không? Cập nhật các thuộc tính có đúng không? Thêm sản phầm vào Inventory thì số lượng danh sách sản phẩm có đúng không? Kiểm thử các hàm IncreaseQuantity(), IncreasePrice(),....
+
 Buổi 10:
 
 Chủ đề: ADO.NET, connected mode, connection, SQL command
@@ -125,7 +128,6 @@ Bài tập:
 
 Tạo ứng dụng console kết nối với MS SQL Server
 Chạy câu lệnh SQL cơ bản trong ứng dụng C#
-
 Buổi 11:
 
 Chủ đề: Delegates & events
