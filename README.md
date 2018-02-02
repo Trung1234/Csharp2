@@ -1,22 +1,6 @@
 CSharp-Materials
 
-CSharp - Nội dung chương trình
 
-Thời gian: 1 tháng thực tập toàn thời gian bao gồm 12 buổi seminar. Mỗi seminar 3 tiếng. Tuần 3 buổi 2, 4, 6 từ 9h đến 12h.
-Lý thuyết: cú pháp học viên xem video online + làm quiz + tự đọc tài liệu và ví dụ tham khảo
-Seminar: Mỗi tuần 2 buổi giảng viên hướng dẫn bổ sung kiến thức và thực hành. Một buổi thứ 6 học viên sẽ lần lượt trình bày một chủ đề, yêu cầu học viên rèn luyện tinh thần chủ động nghiên cứu và tổng hợp kiến thức.
-Hình thức kiểm tra:
-Cuối mỗi tuần sẽ có 1 bài quiz + thực hành trên lớp (4 tests - 80%)
-Xuyên suốt 1 tháng sẽ giải 60 bài tập nhỏ (12 seminar * 5 bài) - cần hoàn thành ít nhất 70% số lượng, 40 bài (20%)
-==============================================
-
-Nội Dung Đào Tạo:
-
-Tuần 1: using VSCode, basic C#, coding conventions, variables, data types, type conversion, exception handling, console methods, manipulating string, arrays,handling logic, control flow
-Tuần 2: struct, enum, collections, generic type, LINQ, file i/o
-Tuần 3: OOP & unit testing
-Tuần 4: Delegates & Events, regular expression, ADO.NET
-==============================================
 
 Buổi 1:
 
