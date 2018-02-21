@@ -79,8 +79,10 @@ namespace QuanLyUser
 
         public void sortAndPrintUserByName()
         {
-            listUser.OrderBy(acc => acc.Name);
-            foreach (var user in listUser)
+            var list = from s in listUser
+                   orderby s.Name 
+                   select s;
+            foreach (var user in list)
             {
                 Console.WriteLine(user.Name);
             }
