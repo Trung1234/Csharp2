@@ -15,7 +15,7 @@ namespace QuanLyUser
         public Manager()
         {
             listUser = new List<User>();
-            // initUserList();
+            initUserList();
         }
 
         private void initUserList()
@@ -49,7 +49,7 @@ namespace QuanLyUser
 
         }
 
-        public List<User> findUserByName(String name)
+        public List<User> findUserByName(string name)
         {
             List<User> data = new List<User>();
             for (int i = 0; i < listUser.Count; i++)
@@ -63,7 +63,7 @@ namespace QuanLyUser
             return data;
         }
 
-        public bool deleteUserByUserName(String userName)
+        public bool deleteUserByUserName(string userName)
         {
             for (int i = 0; i < listUser.Count; i++)
             {

@@ -28,7 +28,9 @@ namespace QuanLyUser
                 mgr.register(user4);
                 Console.WriteLine(mgr.login(user));
 
-                mgr.sortAndPrintUserByName();   
+                // mgr.sortAndPrintUserByName();   
+                Console.WriteLine(mgr.deleteUserByUserName("An"));
+                // Console.WriteLine(mgr.deleteUserByUserName("Thanh"));
         }
     }
 }
