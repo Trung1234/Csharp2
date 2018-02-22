@@ -3,27 +3,26 @@ using System;
 namespace QuanLyUser
 {
 
-public class User : IComparable<User>
+public class User 
 {
-    private string name, phone;
     private Account acc;
    
     public User(string userName, string phone, 
         string name, string pass) {
 		acc = new Account(userName, pass);
-		this.name = name;
-		this.phone = phone;
+		Name = name;
+		Phone = phone;
 
     }
     
     // properties 
     public string Name {
-		get { return name; }
-		set { name = value; }
+		get; 
+		set ; 
 	}
     public string Phone {
-		get { return phone; }
-		set { phone = value; }
+		get; 
+		set ; 
 	}
     public string UserName {
         get { return acc.UserName; }
@@ -36,20 +35,11 @@ public class User : IComparable<User>
     //
     
 
-    public int CompareTo(User other)
-    {
-      
-        return this.Name.CompareTo(other.Name);
-        
-    }
 
-	public bool Equals(User user) {
-		return this.acc.UserName.Equals(user.UserName);
-    }
 
-    public override string ToString()
-    {
-        return acc.ToString() + "-" + Name + "-" + Phone + "\n";
-    }
+	// public bool Equals(User user) {
+	// 	return this.acc.UserName.Equals(user.UserName);
+    // }
+
 }
 }

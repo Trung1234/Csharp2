@@ -1,24 +1,22 @@
 
 
 public class Account {
-	private string userName, pass;
+	
 
 	public Account(string userName, string pass) {
-		this.userName = userName;
-		this.pass = pass;
+		UserName = userName;
+		Pass= pass;
 	}
 
 	public string UserName {
-		get { return userName; }
-		set { userName = value; }
+		get ; 
+		set ; 
 	}
 
 	public string Pass {
-		get { return pass; }
-		set { pass = value; }
+		get ; 
+		set ; 
 	}
 
-	public override string ToString() {
-		return UserName + "-" + Pass;
-	}
+
 }
