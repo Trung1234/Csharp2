@@ -7,6 +7,7 @@ public class User
 {
     private Account acc;
    
+    
     public User(string userName, string phone, 
         string name, string pass) {
 		acc = new Account(userName, pass);
@@ -14,7 +15,6 @@ public class User
 		Phone = phone;
 
     }
-    
     // properties 
     public string Name {
 		get; 
