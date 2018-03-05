@@ -35,9 +35,9 @@ namespace TreeApp
         }
        static void Main(string[] args)
        {
-        //    string path = Directory.GetCurrentDirectory();
-           Console.WriteLine("nhap vao duong dan thu muc");
-           string path = Console.ReadLine();
+           string path = Directory.GetCurrentDirectory();
+        //    Console.WriteLine("nhap vao duong dan thu muc");
+        //    string path = Console.ReadLine();
            foreach(var item in DirSearch(path)){
                Console.WriteLine(item.ToString());
            }
