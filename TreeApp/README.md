@@ -7,7 +7,7 @@
 - liệt kê thư mục người dùng.
 
 ## Ý tưởng thực hiện bài toán:
-- Dùng loop thứ nhất để lấy ra Subfolder đầu tiên và loop thứ 2 để lấy ra file trong folder đó
+- Dùng loop thứ nhất để lấy ra Subfolder đầu tiên và lồng loop thứ 2 để lấy ra file trong folder đó
 - Dùng **đệ quy** để  lấy hết được SubFolder và File tiếp theo.
 
 ## Để run app:
