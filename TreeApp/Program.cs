@@ -20,7 +20,7 @@ namespace TreeApp
                     {
                         Console.WriteLine("\t└──"+f);
                     }
-                    // DirSearch(d);
+                    DirSearch(d);
                 }
             }
             catch (System.Exception excpt)
@@ -31,7 +31,7 @@ namespace TreeApp
        static void Main(string[] args)
        {
            string path = Directory.GetCurrentDirectory();
-        //    Console.WriteLine("nhap vao duong dan thu muc");
+        //    Console.WriteLine("Nhập vào đường dẫn thư mục");
         //    string path = Console.ReadLine();
       
             DirSearch(path);
