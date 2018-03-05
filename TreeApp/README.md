@@ -1,12 +1,14 @@
 # Bài 1: Liệt kê thư mục và file (Tree App)
 
- Đây là một ứng dụng bằng C# nhận vào tham số là đường dẫn thư mục sau đó liệt kê toàn bộ nội dung thư mục đó. Chú ý nếu tham số là
+ Đây là một ứng dụng bằng C# nhận vào tham số là đường dẫn thư mục sau đó liệt kê toàn bộ nội dung thư mục đó. 
 
 - liệt kê thư mục hiện thời
 - liệt kê thư mục cha
 - liệt kê thư mục người dùng.
 
-Nhìn chung, Nhờ dùng **đệ quy** app đã lấy hết được SubFolder và File .
+## Yý tưởng thực hiện bài toán:
+- Dùng loop thứ nhất để lấy ra Subfolder đầu tiên và loop thứ 2 để lấy ra file trong folder đó
+- Dùng **đệ quy** để  lấy hết được SubFolder và File tiếp theo.
 
 ## Để run app:
 Sau khi git clone , cd đến thư mục TreeApp
