@@ -6,7 +6,7 @@
 - liệt kê thư mục cha
 - liệt kê thư mục người dùng.
 
-## Yý tưởng thực hiện bài toán:
+## Ý tưởng thực hiện bài toán:
 - Dùng loop thứ nhất để lấy ra Subfolder đầu tiên và loop thứ 2 để lấy ra file trong folder đó
 - Dùng **đệ quy** để  lấy hết được SubFolder và File tiếp theo.
 
