@@ -20,7 +20,7 @@ Sau khi **git clone** , cd đến thư mục TreeApp
 
 ### Ý tưởng thực hiện bài toán:
 
-1 - Convert 1 Flag to Mp3.
-2 - Cho 1 mảng chứa đường dẫn các file Flag -> convert tuần tự sang mp3.
-2B - Convert song song số lượng tác vụ convert song song là N3
-3 - Quét thư mục ->  danh sách các file Flag
+1. Convert 1 Flag to Mp3.
+2. Cho 1 mảng chứa đường dẫn các file Flag -> convert tuần tự sang mp3.
+3. Convert song song số lượng tác vụ convert song song là N3.
+4. Quét thư mục ->  danh sách các file Flag
