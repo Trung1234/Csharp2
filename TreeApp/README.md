@@ -1,5 +1,6 @@
 ## Bài 1: Liệt kê thư mục và file (Tree App)
 
+
 Trong Linux có một ứng dụng nổi tiếng có tên là tree để liệt kê toàn bộ thư mục và thư mục con + file
 ```
 $ tree .
